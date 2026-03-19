@@ -1,4 +1,4 @@
-# cfPWV Reference Values for Chinese Children and Adolescents
+# Reference Materials for cfPWV Z-Score Calculation in Chinese Children and Adolescents
 
 This repository provides the code and reference materials used to calculate carotid-femoral pulse wave velocity (cfPWV) z-scores, based on sex-, age-, and height-specific reference models derived from a healthy population of Chinese children and adolescents.
 
